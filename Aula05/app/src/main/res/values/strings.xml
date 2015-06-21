@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aula 05</string>
+
+    <string name="hello_world">Main</string>
+    <string name="proxima">Próxima Activity</string>
+    <string name="segunda_activity">Segunda Activity</string>
+</resources>
