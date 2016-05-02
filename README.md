@@ -11,5 +11,3 @@ Video-aulas Android
 3. [Instalação Genymotion e Plugin para Android Studio](https://youtu.be/AV3_yUlZei8?list=PL43Ux4e1eoZTetV5xwVM1pcXYeoelm725)
 4. [Evento Click e findViewById](https://youtu.be/1aomyMsqCIw?list=PL43Ux4e1eoZTetV5xwVM1pcXYeoelm725)
 5. [Ciclo de vida e transição entre Activities](https://youtu.be/fMTX5lb76R8?list=PL43Ux4e1eoZTetV5xwVM1pcXYeoelm725)
-
-Android is a trademark of Google Inc.
